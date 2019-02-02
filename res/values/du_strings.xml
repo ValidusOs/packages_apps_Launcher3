@@ -93,8 +93,12 @@
 
     <!-- Show labels on icon -->
     <string name="app_show_label_title">App labels</string>
-    <string name="desktop_show_label_summary">Show the labels of apps on the homescreen</string>
+    <string name="desktop_show_label_summary">Show the labels of apps on the home screen</string>
     <string name="allapps_show_label_summary">Show the labels of apps in the app drawer</string>
+
+    <!-- Show searchbar -->
+    <string name="show_searchbar_title">Show search bar</string>
+    <string name="show_searchbar_summary">Show the search bar on the home screen</string>
 
     <!-- QSB -->
     <string name="hotseat_qsb_preferences">Preferences</string>
